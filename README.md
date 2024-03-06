@@ -62,7 +62,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
-  git clone https://github.com/SanKolisetty/AlgoWizard.git
+  git clone https://github.com/SahilDanayak/AlgoWizard.git
 ```
 The repository has been cloned in your folder. Now, we need to install the dependences. Please note that we were instructed to implement this project in Visual Studio 2010. We have used MySQL for creating databases required. Thus, install MySQL from this [link](https://dev.mysql.com/downloads/installer/) considering the requirements of your PC.
 
